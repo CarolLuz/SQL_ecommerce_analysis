@@ -1,3 +1,5 @@
+(Esta análise foi realizada por Carol Luz, Celsina Azevedo e Talita Cavalcanti)
+
 ## Objetivo
 Esse notebook tem como objetivos apresentar análises sobre cancelamentos de vendas que podem acarretar em problemas de logísticos devido a estoque parado. Sendo assim:
 
